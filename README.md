@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **stefanop21@outlook.es**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **Get good at Git**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
