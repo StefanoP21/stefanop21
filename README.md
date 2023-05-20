@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://stefanop21.github.io/challenge-portfolio-oracle/](https://stefanop21.github.io/challenge-portfolio-oracle/)
+- 👨‍💻 All of my projects are available at - [https://stefanop21.github.io/challenge-portfolio-oracle/](https://stefanop21.github.io/challenge-portfolio-oracle/)
 
-- 📫 How to reach me **stefanop21@outlook.es**
+- 📫 How to reach me - **stefanop21@outlook.es**
 
-- ⚡ Fun fact **Get good at Git**
+- ⚡ Fun fact - **Get good at Git**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
