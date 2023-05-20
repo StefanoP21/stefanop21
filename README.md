@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/4fa9a5bdefafee7e59ad2086429306dfc0c902d0db4d2d1fdfb534b1767d9f62/68747470733a2f2f646576656c6f706572732e67697068792e636f6d2f6272616e63682f6d61737465722f7374617469632f6170692d35313264333663303936363236383237313731303861333862626235633537642e676966)](https://stefanop21.github.io/challenge-portfolio-oracle/)
+[![MasterHead](https://camo.githubusercontent.com/4fa9a5bdefafee7e59ad2086429306dfc0c902d0db4d2d1fdfb534b1767d9f62/68747470733a2f2f646576656c6f706572732e67697068792e636f6d2f6272616e63682f6d61737465722f7374617469632f6170692d35313264333663303936363236383237313731303861333862626235633537642e676966)](https://stefano.vercel.app/)
 <h1 align="center">Hi 👋, I'm Stefano Palomino</h1>
 <h3 align="center">I'm a Software Developer in training</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at - [https://stefanop21.github.io/challenge-portfolio-oracle/](https://stefanop21.github.io/challenge-portfolio-oracle/)
+- 👨‍💻 All of my projects are available at - [https://stefano.vercel.app/](https://stefano.vercel.app/)
 
 - 📫 How to reach me - **stefanop21@outlook.es**
 
@@ -19,10 +19,8 @@
 <p align="left">
 <a href="https://twitter.com/stefano_p21" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="stefanop_21" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/aldair-palomino/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stefano palomino" height="30" width="40" /></a>
-<a href="https://web.facebook.com/AldairStefanoPalomino" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="stefanopalomino" height="30" width="40" /></a>
 <a href="https://instagram.com/stefanop23" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="stefanop23" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/stefanop21" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="stefanop21" height="30" width="40" /></a>
-<a href="https://discord.gg/#1218" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Stefano#1218" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
