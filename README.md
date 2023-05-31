@@ -11,9 +11,9 @@
 
 - 👨‍💻 All of my projects are available at - [https://stefano.vercel.app/](https://stefano.vercel.app/)
 
-- 📫 How to reach me - **stefanop21@outlook.es**
+- 📫 How to reach me - stefanop21@outlook.es
 
-- ⚡ Fun fact - **Get good at Git**
+- ⚡ Fun fact - "This is a feature, not a bug"
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
