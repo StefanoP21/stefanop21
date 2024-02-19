@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at - [https://stefano.vercel.app/](https://stefano.vercel.app/)
+- 👨‍💻 All of my projects are available at - [https://stefano.vercel.app/](https://stefano.vercel.app)
 
 - 📫 How to reach me - stefanop21@outlook.es
 
