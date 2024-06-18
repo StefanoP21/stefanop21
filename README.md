@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/stefano_p21" target="_blank"><img src="https://img.shields.io/twitter/follow/stefano_p21?logo=twitter&style=for-the-badge" alt="stefano_p21" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Nodejs**
 
 - 👨‍💻 All of my projects are available at - [https://stefano.vercel.app/](https://stefano.vercel.app)
 
@@ -17,7 +17,6 @@
 <p align="left">
 <a href="https://twitter.com/stefano_p21" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="stefanop_21" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/aldair-palomino/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stefano palomino" height="30" width="40" /></a>
-<a href="https://instagram.com/stefanop23" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="stefanop23" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/stefanop21" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="stefanop21" height="30" width="40" /></a>
 </p>
 
