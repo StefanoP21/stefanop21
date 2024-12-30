@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/stefano_p21" target="_blank"><img src="https://img.shields.io/twitter/follow/stefano_p21?logo=twitter&style=for-the-badge" alt="stefano_p21" /></a> </p>
 
-- 🌱 I’m currently learning **Nodejs**
-
 - 👨‍💻 All of my projects are available at - [https://stefano.vercel.app/](https://stefano.vercel.app)
 
 - 📫 How to reach me - stefanop21@outlook.es
